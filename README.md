@@ -1,11 +1,75 @@
-# Overview
-This repository is created from a project I did last semester in my Artificial Intelligence class. It solves the game of boggle by choosing al the possible words that can be created after the die roll.
+# Details about Reddit Repost Checker
 
-# Purpose
-This project not only solves the game of boggle for you in minimal time but it also priorizes high value words so if it is unable to find all words in the alloted time, you can be sure you got the best words no matter what.
+## Governance Model
 
-# How To Contribute
-To contribute find an issue of a bug or feature you want to address, if none exist create one. Create a seperate branch off of master named after the issue and when ready submit a pull request and it will be reviewed for inclusion into the master branch. Once it has been reviewed and all changes are made, it will be merged into master.
+  * Discuss the governance model of the project you are working on
+  
+  xXAligatorXx is the sole owner of the project but allows anyone to contribute. Therefore the goverance model of the project is benevolant dictator/ bazaar.  
 
-# Need Help?
-If you need help with contributing or have questions about the repo. contact nip5 with and I will get back to you soon.
+
+## Resources available (URLs)
+
+  * Main language used: 
+    Python3.5+
+    
+  * Other technologies used (databases, frameworks, languages): 
+    * sqlite 
+    * Dependencies: Praw, Pillow, Dhash, Levenshtein, PyAV
+
+## Resources available (URLs)
+
+  * Homepage: https://github.com/xXAligatorXx/RepostCheckerBot
+  * Contribution guide: N/A
+  * Issue tracker: https://github.com/xXAligatorXx/RepostCheckerBot/issues
+  * Code of conduct: N/A
+  * Development wiki: N/A
+
+## Finding an issue to work on
+  
+  * Does the project use tags to identify easy tasks?
+  * If yes, which tag(s) is(are) used?
+  * Good First Issue
+  * Hacktoberfest
+  * Help Wanted
+  
+## Key personnel
+
+  * Do you have any contact in the project? Who? 
+  * xXAligatorXx
+  
+  * Who are the main contributors of the project (find it)? 
+  * xXAligatorXx
+  
+## Communicating with the community
+  
+  * What are the communication means available and what are the focus of each? (Forums, mailing lists, issue tracker, IRC, Slack, etc.)
+  * Issue Tracker(Main Method)
+  
+  * Have you already used any of them?
+    * Yes (Issue Tracker)
+
+## Workspace setup
+
+  * Are there tutorials, guidelines or FAQs about setting up the local workspace?
+    * Readme outlines setup process
+   
+  * Does the community recommend any specific OS or IDE? Which one(s)?
+    * No
+
+## Code documentation
+  
+   * Is any kind of code documentation available? Where?
+   * No
+    
+   * Is the architecture documented?
+   * No
+    
+   * Are there code standards policies/guidelines available? Where?
+   * No
+    
+## Submitting your contribution
+
+  * Are there guidelines on how to create a submission? Where?
+  * No
+  * Is there any kind of checklist to follow?
+  * No
